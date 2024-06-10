@@ -8,7 +8,7 @@
    
     function btn(e){
       // alert(e.target.value)
-      setno(no => no+e.target.value);
+      setno(no => no+e.target .value);
       console.log(no)
     }
 
